@@ -22,14 +22,21 @@ Independent implementations and experimental reproduction studies of published r
 
 ## Academic Work
 
-### 1. Research & Selected Projects
+### Cognitive Science & Behavioral Modeling
+
+| Repository | Description |
+|---|---|
+| [Computational Cognitive Science & Decision Making](https://github.com/farzam-nami/computational-cognitive-science-decision-making) | A behavioral decision-making study combining probabilistic learning experiments, statistical analysis, metacognitive measures, and computational modeling using Softmax, Epsilon-Greedy, and UCB Q-learning. |
+
+
+### Research & Selected Projects
 
 | Repository | Description |
 |---|---|
 | [Deep Variational Collaborative Filtering](https://github.com/farzam-nami/deep-variational-collaborative-filtering) | Bachelor's thesis investigating DeepMF, NCF, VDeepMF, and VNCF models using MovieLens 1M and FilmTrust datasets. |
 | [University Web Portal](https://github.com/farzam-nami/university-portal-web) | Full-stack web programming project developed with Node.js, MongoDB, HTML, CSS, and JavaScript. |
 
-### 2. AI & Data Science Coursework
+### AI & Data Science Coursework
 
 University projects and programming exercises focused on artificial intelligence, computational intelligence, and data mining.
 
@@ -40,7 +47,7 @@ University projects and programming exercises focused on artificial intelligence
 | [Genetic Algorithms from Scratch](https://github.com/farzam-nami/genetic-algorithms-from-scratch) | Computational Intelligence | Evolutionary computation, function optimization, TSP, Eight Queens |
 | [Prolog Programming Exercises](https://github.com/farzam-nami/prolog-programming-exercises) | Artificial Intelligence | Logic programming, recursion, graph traversal, sorting |
 
-### 3. Software & Computer Systems Coursework
+### Software & Computer Systems Coursework
 
 University projects and exercises covering software engineering, object-oriented programming, data structures, operating systems, and computer networks.
 
@@ -52,7 +59,7 @@ University projects and exercises covering software engineering, object-oriented
 | [Operating Systems Algorithms](https://github.com/farzam-nami/java-operating-systems-algorithms) | Operating Systems | CPU scheduling, page replacement, memory management, process synchronization |
 | [TCP Video Streaming](https://github.com/farzam-nami/python-tcp-video-streaming) | Computer Networks | TCP sockets, client-server architecture, video transmission |
 
-### 4. Hardware & Embedded Systems Coursework
+### Hardware & Embedded Systems Coursework
 
 Practical university projects and exercises covering digital logic, hardware description languages, computer architecture, and embedded systems.
 
