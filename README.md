@@ -7,6 +7,7 @@ My repositories include academic research, university projects, and programming 
 
 | Repository | Description |
 |---|---|
+| [Spoken Language Identification](https://github.com/farzam-nami/spoken-language-identification) | An end-to-end speech-based language identification pipeline featuring acoustic feature extraction, PCA, and from-scratch classification and clustering algorithms, achieving 98.48% test accuracy with KNN on a four-language dataset. |
 | [Machine Learning Algorithms and Experiments](https://github.com/farzam-nami/machine-learning-algorithms-and-experiments) | Implementations and experimental analyses of Bayesian classification, density estimation, statistical inference, regression, feature selection, neural networks, transfer learning, and Gaussian mixture models. |
 | [Numerical Optimization Algorithms](https://github.com/farzam-nami/numerical-optimization-algorithms) | Implementations and experimental analyses of unconstrained and constrained optimization algorithms, including Newton methods, conjugate gradient, quasi-Newton methods, quadratic programming, and augmented Lagrangian optimization. |
 
