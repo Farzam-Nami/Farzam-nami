@@ -3,6 +3,12 @@
 I am a Master's student in Artificial Intelligence with a Bachelor's degree in Computer Engineering. My interests include Artificial Intelligence, Machine Learning and Deep Learning.
 
 My repositories include academic research, university projects, and programming exercises completed throughout my undergraduate studies.
+## Machine Learning & AI Projects
+
+| Repository | Description |
+|---|---|
+| [Machine Learning Algorithms and Experiments](https://github.com/farzam-nami/machine-learning-algorithms-and-experiments) | Implementations and experimental analyses of Bayesian classification, density estimation, statistical inference, regression, feature selection, neural networks, transfer learning, and Gaussian mixture models. |
+
 
 ## Academic Work
 
