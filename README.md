@@ -10,6 +10,15 @@ My repositories include academic research, university projects, and programming 
 | [Machine Learning Algorithms and Experiments](https://github.com/farzam-nami/machine-learning-algorithms-and-experiments) | Implementations and experimental analyses of Bayesian classification, density estimation, statistical inference, regression, feature selection, neural networks, transfer learning, and Gaussian mixture models. |
 | [Numerical Optimization Algorithms](https://github.com/farzam-nami/numerical-optimization-algorithms) | Implementations and experimental analyses of unconstrained and constrained optimization algorithms, including Newton methods, conjugate gradient, quasi-Newton methods, quadratic programming, and augmented Lagrangian optimization. |
 
+## Research Paper Implementations
+
+Independent implementations and experimental reproduction studies of published research papers.
+
+| Repository | Description |
+|---|---|
+| [Newton-CG and Augmented Lagrangian Optimization](https://github.com/farzam-nami/newton-cg-augmented-lagrangian) | Python reimplementation and numerical reproduction of He et al. (2023), investigating Newton-CG and augmented Lagrangian methods for nonconvex equality-constrained optimization. [Paper](https://doi.org/10.1137/22M1489824) |
+
+
 ## Academic Work
 
 ### 1. Research & Selected Projects
