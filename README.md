@@ -1,6 +1,6 @@
 # Hello, I'm Farzam Nami
 
-I am a Computer Engineering graduate with interests in Artificial Intelligence, Machine Learning, Deep Learning, and Software Development.
+I am a Master's student in Artificial Intelligence with a Bachelor's degree in Computer Engineering. My interests include Artificial Intelligence, Machine Learning and Deep Learning.
 
 My repositories include academic research, university projects, and programming exercises completed throughout my undergraduate studies.
 
